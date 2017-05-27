@@ -55,11 +55,16 @@
 /*==================[internal functions definition]==========================*/
 
 /*==================[external functions definition]==========================*/
+/** Funcion Suma
+ **/
+
 extern int32_t suma(uint8_t a, uint32_t b)
 {
     return a + b;
 }
 
+/** Funcion Resta
+ **/
 extern int32_t resta(uint32_t a, uint32_t b)
 {
     return a - b;
