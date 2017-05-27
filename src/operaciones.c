@@ -60,6 +60,10 @@ extern int32_t suma(uint8_t a, uint32_t b)
     return a + b;
 }
 
+extern int32_t resta(uint32_t a, uint32_t b)
+{
+    return a - b;
+}
 /** @} doxygen end group definition */
 /** @} doxygen end group definition */
 /*==================[end of file]============================================*/

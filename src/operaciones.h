@@ -68,6 +68,8 @@ extern "C" {
  **/
 extern int32_t suma(uint8_t a, uint32_t b);
 
+extern int32_t resta(uint32_t a, uint32_t b);
+
 /*==================[cplusplus]==============================================*/
 #ifdef __cplusplus
 }
